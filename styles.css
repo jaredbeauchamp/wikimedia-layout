@@ -1,1 +1,42 @@
+body	{
+	margin: 0 auto;
+	font-size: 20px;
+	width: 75%;
+	font-family: sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 1.5;
+}
+.paragraph {
+	padding: 0.5em 1em;
+	
+}
+a {
+	color: #0645AD
+}
+.welcome {
+	text-align: right;
+	font-weight: bold;
+}
 
+.box	{
+	display: inline-block;
+	margin: .5em 2em;
+	padding-right: 1em;
+	padding-left: 1em;
+	vertical-align: middle;
+}
+.container {
+	margin: auto;
+}
+.footer {
+	border-top: solid 1px black;
+	margin: 1em auto 2em auto;
+	font-family: sans-serif;
+	font-size: 13px;
+	text-align: center;
+}
+li {
+	display: inline;
+}
